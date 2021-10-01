@@ -19,16 +19,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook: https://www.facebook.com/Beritaistic
+  facebook: Beritaistic
   flickr:
   github: barryclark/jekyll-now
   instagram:
   linkedin:
-  pinterest: https://www.pinterest.com/beritaistic
-  rss: https://beritaistic.blogspot.com/feeds/posts/default?alt=rss
+  pinterest: beritaistic
+  rss: feed/xml
   twitter: beritaistic
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: UCZgTFfhHAit9ZWyLJiiLHzg
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://beritaistic.blogspot.com/
+url: https://beritaistic.blogspot.com/sitemap.xml
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
